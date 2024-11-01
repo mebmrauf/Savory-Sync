@@ -61,10 +61,10 @@ This comprehensive system will foster a community of cooking enthusiasts while m
 ### Backend
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+  </a> NodeJS
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
-  </a>
+  </a> ExpressJS
   
 ### Frontend
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
