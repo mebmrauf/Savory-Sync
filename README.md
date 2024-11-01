@@ -6,7 +6,7 @@ A key feature will be the weekly meal planning tool for users, which will facili
 
 This comprehensive system will foster a community of cooking enthusiasts while making grocery shopping and meal preparation seamless and efficient.
 
-# Roadmap for Implementation
+# Features
 
 ## Module 1: User and Shopkeeper Management
 
@@ -55,3 +55,5 @@ This comprehensive system will foster a community of cooking enthusiasts while m
 **4. Quantity Adjustment Post-Cooking:** Automatically update item quantities based on user meal plans after cooking.
 
 **5. Reorder Notifications:** Alert users when items are running low based on their cooking habits and shopping list.
+
+# Technologies Used
