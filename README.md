@@ -83,3 +83,15 @@ Clone this repository to your local device -
 ```
 git clone https://github.com/raufbiswas/SavorySync.git
 ```
+
+### Install Nodemon(NPM)
+Install nodemon developer dependency - 
+```
+npm install --save-dev
+```
+
+### Install ExpressJS
+Install ExpressJS to your local device -
+```
+npm install --save express
+```
