@@ -82,5 +82,4 @@ This comprehensive system will foster a community of cooking enthusiasts while m
 Clone this repository to your local device -
 ```
 git clone https://github.com/raufbiswas/SavorySync.git
-
 ```
