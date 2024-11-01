@@ -75,3 +75,9 @@ This comprehensive system will foster a community of cooking enthusiasts while m
   <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a> <b>MongoDB</b>
+
+# Setup Instructions
+
+### 1. Clone the repository
+Clone this repository to your local device -
+```git clone https://github.com/raufbiswas/SavorySync.git```
