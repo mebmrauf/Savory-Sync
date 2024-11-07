@@ -97,7 +97,7 @@ npm install --save express
 ```
 
 ### Install template engines
-Install ejs, pug and handlebars template engines -
+Install ejs template engines -
 ```
-npm install --save ejs pug express-handlebars
+npm install --save ejs
 ```
