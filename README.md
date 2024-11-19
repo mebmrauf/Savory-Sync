@@ -85,9 +85,12 @@ git clone https://github.com/raufbiswas/SavorySync.git
 ```
 
 ### Install Nodemon(NPM)
-Install nodemon developer dependency - 
+Install nodemon developer dependency -
 ```
-npm install --save-dev
+npm init
+```
+```
+npm install nodemon --save-dev
 ```
 
 ### Install ExpressJS
