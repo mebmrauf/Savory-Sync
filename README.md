@@ -38,7 +38,7 @@ This comprehensive system will foster a community of cooking enthusiasts while m
 
 **2. Auto Generate Shopping List from Meal Plan:** Generate shopping lists based on the meal plan and quantities needed.
 
-**3. Custom Item Addition:** Users can add custom items or adjust quantities in their shopping list.
+**3. Quantity Adjustment Post-Cooking:** Automatically update item quantities based on user meal plans after cooking.
 
 **4. Meal Plan Suggestions:** Provide recipe suggestions based on user preferences and selected categories.
 
@@ -46,13 +46,13 @@ This comprehensive system will foster a community of cooking enthusiasts while m
 
 ## Module 4: Order Management
 
-**1. Online Ordering:** Users can place orders for items directly from their shopping list.
+**1. Custom Item Addition:** Users can add custom items or adjust quantities in their shopping list.
 
-**2. Order Confirmation:** Shopkeepers can confirm orders and delivery addresses via phone calls.
+**2. Online Ordering:** Users can place orders for items directly from their shopping list.
 
-**3. Order Status Tracking:** Users receive notifications regarding order status updates (confirmed, delivered).
+**3. Order Confirmation:** Shopkeepers can confirm orders and delivery addresses via phone calls.
 
-**4. Quantity Adjustment Post-Cooking:** Automatically update item quantities based on user meal plans after cooking.
+**4. Order Status Tracking:** Users receive notifications regarding order status updates (confirmed, delivered).
 
 **5. Reorder Notifications:** Alert users when items are running low based on their cooking habits and shopping list.
 
