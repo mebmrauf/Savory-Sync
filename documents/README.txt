@@ -1,3 +1,6 @@
+Use this as Database -
+MONGO_URL=mongodb+srv://savorySync:gwvnXeBho7kQTFtu@savorysync.vblbx.mongodb.net/?retryWrites=true&w=majority&appName=savorySync
+
 Create Package.json file
 ```
 npm init -y
