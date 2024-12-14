@@ -17,7 +17,7 @@ app.use(express.json()); // Accept JSON data in request body
 connectDB();
 
 // Routes
-app.use('/api/orders', orderListRoutes); // Mount order list routes
+app.use('/orders', orderListRoutes); // Mount order list routes
 
 // Catch-All Route for Undefined Endpoints
 app.use((req, res, next) => {
