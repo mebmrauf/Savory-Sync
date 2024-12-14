@@ -18,16 +18,16 @@ const orderlistSchema = new mongoose.Schema({
     quantity: {
         type: Number,
         required: true,
-        min: 1
+        min: 1,
+        validate: {
+            validator: Number.isInteger,
+            message: 'Quantity must be an integer'
+        }
     },
     price: {
         type: Number,
         required: true,
         min: 0
-    },
-    totalCost: {
-        type: Number,
-        required: true
     },
     image: {
         type: String,
@@ -45,7 +45,14 @@ const orderlistSchema = new mongoose.Schema({
         type: Date
     }
 }, {
-    timestamps: true
+    timestamps: true,
+    toJSON: { virtuals: true },
+    toObject: { virtuals: true }
+});
+
+// Virtual field for totalCost
+orderlistSchema.virtual('totalCost').get(function () {
+    return this.quantity * this.price;
 });
 
 const Orderlist = mongoose.model('Orderlist', orderlistSchema);
