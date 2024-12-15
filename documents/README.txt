@@ -28,7 +28,7 @@ npm run dev
 Edit and add this in Package.json file
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node backend/app.js"
+    "dev": "nodemon backend/app.js"
   },
   "type": "module",
 
