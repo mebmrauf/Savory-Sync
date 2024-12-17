@@ -1,3 +1,9 @@
+Module1 - Raiyan
+Module2 - Sanjana
+Module3 - Mohinul
+Module4 - Rauf
+
+
 Use this as Database -
 MONGO_URL=mongodb+srv://savorySync:gwvnXeBho7kQTFtu@savorysync.vblbx.mongodb.net/?retryWrites=true&w=majority&appName=savorySync
 
@@ -32,3 +38,9 @@ Edit and add this in Package.json file
   },
   "type": "module",
 
+Create React App
+npx creat-react-app frontend
+
+Install DOM
+cd frontend
+npm install react-router-dom
