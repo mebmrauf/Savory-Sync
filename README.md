@@ -84,24 +84,6 @@ Clone this repository to your local device -
 git clone https://github.com/raufbiswas/SavorySync.git
 ```
 
-### Install Nodemon
-```
-npm init -y
-```
-```
-npm install nodemon -D
-```
-
-### Install ExpressJS, Mongoose, Dotenv
-```
-npm install express mongoose dotenv
-```
-
-### Install MongoDB
-```
-npm install mongodb
-```
-
 ### Use to run the project(backend)
 ```
 npm run dev
