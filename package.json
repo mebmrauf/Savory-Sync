@@ -1,0 +1,35 @@
+{
+  "name": "savorysync",
+  "version": "1.0.0",
+  "description": "This project aims to create an online grocery shop specializing in items such as rice, lentils, and other essential groceries. The platform will enable shopkeepers to register as sellers, allowing them to list their products along with available quantities for sale. Users will benefit from a diverse range of recipes, which can be contributed by both shopkeepers and regular users. Shopkeepers’ recipes will be public by default, while users can choose to keep theirs private or share them selectively.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "nodemon backend/server.js",
+    "test": "jest"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.2",
+    "nodemon": "^3.1.9"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.26.3",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "mongodb-memory-server": "^10.1.2",
+    "supertest": "^7.0.0"
+  }
+}
