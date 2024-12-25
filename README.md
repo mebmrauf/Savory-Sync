@@ -46,15 +46,15 @@ This comprehensive system will foster a community of cooking enthusiasts while m
 
 ## Module 4: Order Management
 
-**1. Custom Item Addition:** Users can add custom items or adjust quantities in their shopping list.
+**1. Custom Item Addition:** Users can add custom items or adjust quantities in their shopping list from cart.
 
-**2. Online Ordering:** Users can place orders for items directly from their shopping list.
+**2. Online Ordering:** Users can place orders for items from their cart.
 
 **3. Order Confirmation:** Shopkeepers can confirm orders and delivery addresses via phone calls.
 
-**4. Order Status Tracking:** Users receive notifications regarding order status updates (confirmed, delivered).
+**4. Order Status Tracking:** Users receive notifications regarding order status updates.
 
-**5. Reorder Notifications:** Alert users when items are running low based on their cooking habits and shopping list.
+**5. Notifications and Order History:** Notifications regarding order status and keeping the order history saved.
 
 # Technologies Used
 
